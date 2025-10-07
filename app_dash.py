@@ -17,7 +17,6 @@ WARNING_COLOR = "#dc3545"  # أحمر (للأداء السلبي/المتأخر)
 ACCENT_COLOR = "#007bff"   # أزرق فاتح (للقيم الرئيسية)
 BACKGROUND_COLOR = "#f0f2f6" # خلفية فاتحة موحدة
 
-st.set_page_config(layout="wide", page_title="نظام متابعة أداء عقود التشغيل والصيانة", initial_sidebar_state="expanded")
 
 # تطبيق CSS مخصص ليتوافق مع التصميم المطلوب
 st.markdown(f"""
